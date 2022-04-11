@@ -24,3 +24,6 @@ Add mobile reponsiveness across the site
 - Basic search and filter
 - Pokemon comparison
 - Add framework (e.g. React) to componentise site
+- Add evolution detail
+- Loader animation for "Load More"
+- Skeleton UI
