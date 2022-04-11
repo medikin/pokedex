@@ -27,3 +27,5 @@ Add mobile reponsiveness across the site
 - Add evolution detail
 - Loader animation for "Load More"
 - Skeleton UI
+- Add in pipelines
+- Add in tests
