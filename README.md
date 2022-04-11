@@ -2,6 +2,8 @@
 
 Build a web based pokedex using the PokeAPI at https://pokeapi.co
 
+Currently deployed on Vercel - https://pokedex-ten-mocha.vercel.app/
+
 # Phase 1
 
 Using the API, the site should:
