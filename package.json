@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matt-asbury/pokedex.git"
+    "url": "git+https://github.com/medikin/pokedex.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matt-asbury/pokedex/issues"
+    "url": "https://github.com/medikin/pokedex/issues"
   },
-  "homepage": "https://github.com/matt-asbury/pokedex#readme",
+  "homepage": "https://github.com/medikin/pokedex#readme",
   "dependencies": {
     "parcel": "^2.3.2"
   }
