@@ -18,8 +18,9 @@ Sprites can be loaded from - https://raw.githubusercontent.com/PokeAPI/sprites/m
 
 Add mobile reponsiveness across the site
 
-# Potential Updates for Future Phases
+# Phase _n_
 
-- Backend server for SSR, caching, etc.
+- Backend server (e.g. Next) for SSR, caching, etc.
 - Basic search and filter
 - Pokemon comparison
+- Add framework (e.g. React) to componentise site
